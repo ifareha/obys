@@ -404,7 +404,7 @@ footerText.addEventListener("mouseenter",function(){
     opacity:1,
     duration:0.5,
     stagger:0.1,
-    delay:0.5
+    delay:0.7
   })
 })
 
@@ -415,14 +415,14 @@ footerText.addEventListener("mouseleave",function(){
     stagger:0.1
   })
   gsap.to(".top6 .svg",{
-    x:70,
+    x:50,
     duration: 0.5
   })
   gsap.to(".top6 h1 span",{
     opacity:1,
     duration:0.5,
     stagger:0.1,
-    delay:0.5
+    delay:0.7
   })
 })
 }
