@@ -404,7 +404,7 @@ footerText.addEventListener("mouseenter",function(){
     opacity:1,
     duration:0.5,
     stagger:0.1,
-    delay:0.7
+    delay:0.4
   })
 })
 
@@ -422,7 +422,7 @@ footerText.addEventListener("mouseleave",function(){
     opacity:1,
     duration:0.5,
     stagger:0.1,
-    delay:0.7
+    delay:0.4
   })
 })
 }
